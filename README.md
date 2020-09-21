@@ -1,3 +1,12 @@
+
+
+[# Priority Queue](https://github.com/Talshem/javascript-algorithms/blob/master/src/data-structures/priority-queue/PriorityQueue.js)
+
+
+
+
+----------------------------------------------
+
 # JavaScript Algorithms and Data Structures
 
 [![Build Status](https://travis-ci.org/trekhleb/javascript-algorithms.svg?branch=master)](https://travis-ci.org/trekhleb/javascript-algorithms)
