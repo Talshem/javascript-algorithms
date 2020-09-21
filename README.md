@@ -1,6 +1,6 @@
 
 
-[my directory](Queue.js)
+[my directory](https://github.com/Talshem/javascript-algorithms/blob/master/src/data-structures/priority-queue/PriorityQueue.js)
 
 
 
