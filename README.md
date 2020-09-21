@@ -1,6 +1,6 @@
 
 
-[https://github.com/Talshem/javascript-algorithms/blob/master/src/data-structures/queue/Queue.js](# Priority Queue)
+[https://github.com/Talshem/javascript-algorithms/blob/master/src/data-structures/queue/Queue.js].(# Priority Queue)
 
 
 
